@@ -15,8 +15,6 @@ width: 150px;
 .main-logo{
     height: auto;
     width: 600px;
-    /* border-radius: 14px; */
-    /* box-shadow: 0 10px 20px #08010e5d, 0 6px 6px rgba(0, 0, 0, 0.23); */
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -64,7 +62,7 @@ h3 {
 
 .illustration{
 height: auto;
-width: 500px;
+width: 300px;
 border-radius: 14px;
 box-shadow: 0 10px 20px #08010e5d, 0 6px 6px rgba(0, 0, 0, 0.23);
 display: block;
