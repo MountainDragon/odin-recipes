@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Lobster&family=Oregano&display=swap');
+
 body {
     background-image: url(./images/background.jpg);
     background-repeat: no-repeat;
@@ -9,3 +11,39 @@ body {
 height: auto;
 width: 150px;
 }
+
+*{
+    font-family: 'Oregano', cursive, sans-serif;
+    font-size: 28px;
+}
+
+h1 {
+    font-family: 'Lobster', cursive, sans-serif;
+    font-size: 42px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #08010E;
+    color: #070e01;
+    text-transform: capitalize;
+}
+
+h2,
+h3 {
+    font-family: 'Fredericka the Great', cursive, sans-serif;
+    color: #070e01;
+    text-transform: capitalize;
+}
+
+h2 {
+    font-size: 38px;
+}
+h3 {
+    font-size: 34px;
+}
+
+.title {
+    font-size: 34px;
+    font-family: 'Fredericka the Great', cursive, sans-serif;
+    color: #070e01;
+}
+
